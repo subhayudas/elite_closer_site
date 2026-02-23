@@ -67,7 +67,7 @@ const SuccessStories = () => {
           
           <div
             ref={scrollRef}
-            className="flex gap-4 overflow-x-auto overflow-y-hidden pb-4 px-12 sm:px-16 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden"
+            className="flex gap-4 overflow-x-auto overflow-y-hidden pb-4 px-12 sm:px-16 [scrollbar-width:thin] [scrollbar-color:hsl(var(--muted-foreground)/0.45)_transparent] [&::-webkit-scrollbar]:h-2 [&::-webkit-scrollbar-track]:rounded-full [&::-webkit-scrollbar-track]:bg-muted/20 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-muted-foreground/40 hover:[&::-webkit-scrollbar-thumb]:bg-muted-foreground/55"
           >
             {storyData.map((story, i) => (
               <motion.div
