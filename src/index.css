@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 7.1%;
+    --foreground: 0 0% 100%;
+
+    --card: 0 0% 9%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 0 0% 9%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 351 80% 43%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 0 0% 14%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 0 0% 14%;
+    --muted-foreground: 270 1% 62%;
+
+    --accent: 351 80% 43%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 16%;
+    --input: 0 0% 16%;
+    --ring: 351 80% 43%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 0 0% 7.1%;
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 351 80% 43%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 0 0% 14%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 0 0% 16%;
+    --sidebar-ring: 351 80% 43%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-gradient-red {
+    @apply bg-gradient-to-r from-primary to-red-500 bg-clip-text text-transparent;
+  }
+}
+
+/* Animated grid background */
+.animated-grid {
+  background-image: 
+    linear-gradient(rgba(197, 22, 49, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(197, 22, 49, 0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+  animation: gridMove 20s linear infinite;
+}
+
+@keyframes gridMove {
+  0% { background-position: 0 0; }
+  100% { background-position: 60px 60px; }
+}
+
+/* Pulse CTA */
+@keyframes ctaPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(197, 22, 49, 0.4); }
+  50% { box-shadow: 0 0 0 12px rgba(197, 22, 49, 0); }
+}
+
+.cta-pulse {
+  animation: ctaPulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Glassmorphism card */
+.glass-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(12px);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.glass-card:hover {
+  border-color: hsl(351, 80%, 43%);
+  box-shadow: 0 0 30px rgba(197, 22, 49, 0.15);
+}
+
+/* CTA shimmer effect */
+@keyframes ctaShimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.cta-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.cta-shimmer::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.15) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: ctaShimmer 3s ease-in-out infinite;
+  pointer-events: none;
+}
+
+/* Nav link sliding underline */
+.nav-link-underline {
+  position: relative;
+}
+
+.nav-link-underline::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: #C51631;
+  transition: width 0.3s ease;
+}
+
+.nav-link-underline:hover::after {
+  width: 100%;
+}
+
+/* Logo glow on hover */
+.logo-glow:hover .logo-icon {
+  filter: drop-shadow(0 0 8px rgba(197, 22, 49, 0.8)) drop-shadow(0 0 16px rgba(197, 22, 49, 0.4));
+  animation: logoPulse 1.5s ease-in-out infinite;
+}
+
+@keyframes logoPulse {
+  0%, 100% { filter: drop-shadow(0 0 8px rgba(197, 22, 49, 0.8)) drop-shadow(0 0 16px rgba(197, 22, 49, 0.4)); }
+  50% { filter: drop-shadow(0 0 12px rgba(197, 22, 49, 0.9)) drop-shadow(0 0 24px rgba(197, 22, 49, 0.5)); }
+}
+
+/* Curriculum icon float */
+@keyframes iconFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+
+.curriculum-icon-float {
+  animation: iconFloat 3s ease-in-out infinite;
+}
+
+
+/* Loading screen text flicker */
+@keyframes flicker {
+  0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+    opacity: 1;
+  }
+  20%, 24%, 55% {
+    opacity: 0.4;
+  }
+}
+
+.animate-flicker {
+  animation: flicker 2.5s ease-in-out infinite;
+}

@@ -1,0 +1,12 @@
+# Netlify deployment config for Elite Closer Academy (Vite + React SPA)
+# https://docs.netlify.com/configure-builds/file-based-configuration/
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# SPA fallback - all routes serve index.html for client-side routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

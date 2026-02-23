@@ -1,0 +1,346 @@
+{
+  "navbar": {
+    "successStories": "Histoires de Réussite",
+    "bookACall": "Réserver un Appel",
+    "wildcardEvents": "Événements Wildcard",
+    "dayInTheLife": "Une Journée dans la Vie",
+    "eliteExperience": "Expérience ELITE",
+    "eliteLevels": "Niveaux ELITE",
+    "trips": "Voyages",
+    "applyForTraining": "Postuler pour la Formation",
+    "closeMenu": "Fermer le menu",
+    "openMenu": "Ouvrir le menu"
+  },
+  "hero": {
+    "subtitle": "Sur Candidature Seulement · Résultats d'Élite · Meilleurs Performeurs",
+    "title1": "La Meilleure Formation en Vente",
+    "title2": "pour la Nouvelle Génération",
+    "description": "Nous formons le top 1% des 18 à 30 ans et les transformons en fermeurs à 6 chiffres. Ce n'est pas pour tout le monde. C'est pour ceux qui refusent de se contenter de moins.",
+    "seeWildcardEvents": "Voir les Événements Wildcard"
+  },
+  "opportunity": {
+    "tag": "Ce qui est Possible",
+    "title": "L'OPPORTUNITÉ",
+    "description": "Ce n'est pas un cours. C'est une transformation de carrière. Découvrez ce qui est possible lorsque vous apprenez des meilleurs et êtes placé dans des rôles de vente porte-à-porte et entreprise-à-entreprise à haute valeur.",
+    "averageSummer": {
+      "value": "$20K+",
+      "label": "GAINS MOYENS",
+      "sublabel": "D'ÉTÉ",
+      "description": "Ce que nos étudiants gagnent généralement lors de leur premier été en vente porte-à-porte et B2B",
+      "highlight": "Résultats Réels"
+    },
+    "topPerformer": {
+      "value": "$100K+",
+      "label": "POTENTIEL DU",
+      "sublabel": "MEILLEUR PERFORMEUR",
+      "description": "Les fermeurs d'élite qui maximisent leur potentiel",
+      "highlight": "Illimité"
+    },
+    "commissionOnly": {
+      "value": "100%",
+      "label": "STRUCTURE",
+      "sublabel": "À COMMISSION UNIQUEMENT",
+      "description": "Vous gagnez ce que vous fermez. Pas de plafond, pas de limite.",
+      "highlight": "Performance Pure"
+    },
+    "scale": {
+      "value": "AUGMENTATION",
+      "label": "BASÉE SUR LA",
+      "sublabel": "PERFORMANCE",
+      "description": "Améliorez votre taux de commission en fonction de votre performance. Plus vous faites de ventes et plus vous investissez d'efforts, plus votre commission peut augmenter.",
+      "highlight": "Gagnez Plus",
+      "learnMore": "En savoir plus"
+    },
+    "commissionLevels": {
+      "title": "Niveaux de Commission",
+      "levelOne": {
+        "title": "Niveau Un",
+        "description": "Votre fondation. Maîtrisez les fondamentaux et commencez à fermer des affaires.",
+        "requirements": "Terminez la formation et fermez vos premiers clients"
+      },
+      "levelTwo": {
+        "title": "Niveau Deux",
+        "description": "Prouvez votre constance. Atteignez vos objectifs et montrez que vous êtes sérieux.",
+        "requirements": "Fermez un certain nombre de clients ou atteignez des objectifs de revenus"
+      },
+      "levelThree": {
+        "title": "Niveau Trois",
+        "description": "Vous êtes dans le niveau supérieur. Performance constante au plus haut niveau.",
+        "requirements": "Dépassez les objectifs du Niveau 2 et maintenez une performance exceptionnelle"
+      },
+      "eliteLevel": {
+        "title": "Niveau Élite",
+        "sublabel": "Accès aux Voyages Élite",
+        "description": "Le sommet. Débloquez les récompenses ultimes réservées aux meilleurs.",
+        "requirements": "Atteignez des métriques de performance d'élite et fermez des nombres record"
+      }
+    }
+  },
+  "travel": {
+    "tag": "Au-Delà de la Formation",
+    "title": "Expérience de Voyage ELITE",
+    "description": "Lorsque vous performez au plus haut niveau, vous méritez des expériences à la hauteur de votre succès. Nos meilleurs fermeurs profitent de voyages premium, d'hébergements sélectionnés et d'un accès VIP aux meilleures destinations du monde.",
+    "curatedAccommodations": {
+      "title": "Hébergements Sélectionnés",
+      "description": "Des hôtels boutique aux resorts premium, nous choisissons des séjours qui correspondent à votre style. La qualité plutôt que les étiquettes. Chaque destination offre quelque chose de spécial.",
+      "highlight": "Séjours Sélectionnés"
+    },
+    "exclusiveDestinations": {
+      "title": "Destinations Exclusives",
+      "description": "Formez-vous dans des lieux de classe mondiale. De Las Vegas à Miami, de Dubaï à Monaco. Partout où les fermeurs prospèrent.",
+      "highlight": "Réseau Mondial"
+    },
+    "premiumTravel": {
+      "title": "Voyage Premium",
+      "description": "Mises à niveau classe affaires, embarquement prioritaire et connexions sans faille. Voyagez confortablement et arrivez prêt à performer.",
+      "highlight": "Confort et Commodité"
+    },
+    "vipExperiences": {
+      "title": "Expériences VIP",
+      "description": "Accès à des événements exclusifs, restaurants gastronomiques et opportunités de réseautage réservées à l'élite.",
+      "highlight": "Accès Inégalé"
+    },
+    "earnYourWay": {
+      "title": "Gagnez Votre Chemin vers le Sommet",
+      "description": "Ces expériences ne sont pas données. Elles sont méritées. Fermez des affaires, atteignez vos objectifs et débloquez l'accès aux expériences de voyage les plus exclusives de l'industrie.",
+      "learnMore": "En savoir plus sur l'expérience de voyage"
+    }
+  },
+  "successStories": {
+    "tag": "Preuve Sociale",
+    "title": "Ils Ont Pris le Wildcard.",
+    "previous": "Avant",
+    "now": "Maintenant",
+    "stories": [
+      {
+        "prevJob": "Vente au Détail Calvin Klein",
+        "currentSalary": "100k$/an+"
+      },
+      {
+        "prevJob": "Bell Canada",
+        "currentSalary": "70k$/an à 19 ans"
+      },
+      {
+        "prevJob": "Camp de Jour",
+        "currentSalary": "25k$ en un été"
+      },
+      {
+        "prevJob": "Surveillance d'Aréna",
+        "currentSalary": "20k$ en 3 mois"
+      },
+      {
+        "prevJob": "Serveur de Restaurant",
+        "currentSalary": "30k$ en un été"
+      },
+      {
+        "prevJob": "16$ de l'heure",
+        "currentSalary": "45$+ de l'heure"
+      },
+      {
+        "prevJob": "16$ de l'heure",
+        "currentSalary": "35$ de l'heure"
+      }
+    ]
+  },
+  "curriculum": {
+    "title": "Qu'est-ce que",
+    "titleHighlight": "Wildcard",
+    "titleSuffix": "Growth?",
+    "description": "Comment fonctionne Wildcard Growth et pourquoi c'est le choix le plus intelligent pour les fermeurs éprouvés prêts à passer au niveau supérieur.",
+    "origin": {
+      "title": "Origine",
+      "description": "Né du succès réel. Wildcard Growth a été créé par Sam de Wild Card Agency. Il a été construit spécifiquement pour le recrutement interne. Ce n'est pas de la théorie. C'est un système éprouvé qui a transformé les meilleurs performeurs en une force d'élite. Lorsque vous rejoignez, vous entrez dans un héritage construit par des fermeurs, pour des fermeurs."
+    },
+    "recruitmentModel": {
+      "title": "Modèle de Recrutement",
+      "description": "Nous ne formons pas à partir de zéro. Nous recrutons des gagnants. Notre modèle est simple : nous identifions des candidats qui ont déjà des compétences éprouvées sur le terrain. Pas de cycles de formation interminables. Nous amenons des fermeurs qui peuvent performer dès le premier jour. Si vous avez la détermination, nous avons l'opportunité. Votre parcours parle, et nous écoutons."
+    },
+    "selectionProcess": {
+      "title": "Processus de Sélection",
+      "description": "Notre processus de sélection n'est pas comme les autres programmes. Il est conçu pour garantir des résultats, pas seulement espérer. Nous évaluons les candidats à travers un processus unique et rigoureux qui garantit que vous êtes préparé pour le succès dès le départ. Lorsque vous êtes accepté, vous n'obtenez pas seulement une place. Vous obtenez un chemin garanti vers les résultats."
+    },
+    "professionalIntegration": {
+      "title": "Intégration Professionnelle ALL-IN",
+      "description": "Dès le premier jour, vous êtes ALL-IN. Soutien intensif. Taux de commission compétitifs. Conditions réelles pour prouver vos compétences et être payé pour elles. Nous ne vous faisons pas attendre. Nous vous évaluons sur le terrain, vous récompensons pour votre performance et vous préparons à gagner. Votre succès est notre succès dès le moment où vous commencez."
+    },
+    "b2bD2d": {
+      "title": "Modèles de Vente B2B et D2D",
+      "b2b": {
+        "title": "B2B (Entreprise-à-Entreprise)",
+        "description": "La vente B2B signifie vendre des produits ou services directement à d'autres entreprises. C'est là que se font les grandes affaires. Vous travaillez avec des décideurs, négociez des contrats et fermez des transactions à haute valeur. Les fermeurs B2B comprennent les cycles de vente complexes, construisent des relations avec les parties prenantes clés et livrent des solutions qui génèrent des résultats commerciaux. Si vous prospérez grâce à la pensée stratégique et aux négociations à enjeux élevés, le B2B est votre arène."
+      },
+      "d2d": {
+        "title": "D2D (Porte-à-Porte)",
+        "description": "La vente D2D est le test ultime de résilience et de persuasion. Vous êtes en première ligne, face à face avec des prospects, gérez les objections en temps réel et fermez des affaires sur place. Les fermeurs D2D ont une confiance inégalée, peuvent lire les gens instantanément et transformer les rejets en opportunités. C'est là que vous prouvez que vous pouvez vendre n'importe quoi, n'importe où, à n'importe qui. Si vous voulez maîtriser les fondamentaux et construire des compétences de fermeture inébranlables, le D2D est là où les légendes sont faites."
+      }
+    },
+    "seeWildcardEvents": "Voir les Événements Wildcard"
+  },
+  "faq": {
+    "title": "FAQ",
+    "questions": {
+      "freeTraining": {
+        "q": "La formation est-elle gratuite ?",
+        "a": "Oui. C'est complètement gratuit pour 2026. À partir de 2027, il y aura des frais pour rejoindre."
+      },
+      "getStarted": {
+        "q": "Comment commencer ?",
+        "a": "La première étape est de réserver un appel Zoom en bas de cette page. La deuxième étape est de vous présenter à l'appel. C'est tout ce que vous devez faire."
+      },
+      "timeCommitment": {
+        "q": "Quel est l'engagement de temps ?",
+        "a": "C'est une carrière, pas un travail à temps partiel. Attendez-vous à une intensité à temps plein avec des récompenses à temps plein."
+      },
+      "experienceRequired": {
+        "q": "L'expérience est-elle requise ?",
+        "a": "Non, ce n'est pas du tout requis. Nous aimons même les gens qui n'ont pas encore d'expérience en vente. Nous les formons à la manière Wildcard."
+      },
+      "joinTeam": {
+        "q": "Y a-t-il une opportunité de rejoindre votre équipe ?",
+        "a": "Oui. Si vous vous prouvez, il y a des opportunités de rejoindre l'équipe."
+      },
+      "b2bD2d": {
+        "q": "Qu'est-ce que B2B/D2D ?",
+        "a": "Porte-à-porte (D2D) signifie vendre directement aux propriétaires à leur porte. Pensez énergie, solaire, sécurité, toiture et plus encore. B2B (entreprise-à-entreprise) signifie vendre aux entreprises plutôt qu'aux consommateurs. Pensez logiciels, assurance, télécom, fournitures de bureau et services qui aident les entreprises à fonctionner. Les deux sont des chemins de vente à haut revenu pour lesquels nous formons."
+      }
+    }
+  },
+  "booking": {
+    "tag": "Réserver un Appel",
+    "title": "Planifiez Votre Session Stratégique d'une Heure",
+    "description": "Choisissez un moment qui vous convient. Aucun engagement requis.",
+    "hideScheduler": "Masquer le planificateur",
+    "showScheduler": "Afficher le planificateur"
+  },
+  "footer": {
+    "brand": "Wildcard Growth",
+    "description": "Formation d'élite en vente pour les fermeurs porte-à-porte et B2B. Passez de zéro à six chiffres.",
+    "navigate": "Navigation",
+    "home": "Accueil",
+    "successStories": "Histoires de Réussite",
+    "training": "Formation",
+    "bookACall": "Réserver un Appel",
+    "wildcardEvents": "Événements Wildcard",
+    "dayInTheLife": "Une Journée dans la Vie",
+    "elite": "ELITE",
+    "eliteLevels": "Niveaux ELITE",
+    "eliteExperience": "Expérience ELITE",
+    "trips": "Voyages",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "allRightsReserved": "Tous Droits Réservés.",
+    "followUsOnInstagram": "Suivez-nous sur Instagram",
+    "followSamLaFranceOnInstagram": "Suivez Sam LaFrance sur Instagram",
+    "followUsOnTikTok": "Suivez-nous sur TikTok"
+  },
+  "eliteLevels": {
+    "tag": "Le Chemin vers l'Élite",
+    "title": "Comment Atteindre le",
+    "titleHighlight": "Niveau Élite",
+    "description": "Progressez à travers quatre niveaux en fermant des affaires et en atteignant des objectifs de revenus. Le niveau élite débloque l'accès à l'expérience de voyage.",
+    "backToEliteExperience": "Retour à l'Expérience ELITE",
+    "eliteTravelAccess": "Accès aux Voyages Élite",
+    "requirements": "Exigences",
+    "readyToStart": {
+      "title": "Prêt à Commencer Votre Parcours ?",
+      "description": "Chaque fermeur d'élite a commencé au Niveau Un. Postulez maintenant pour commencer.",
+      "applyForTraining": "Postuler pour la Formation"
+    }
+  },
+  "eliteExperience": {
+    "tag": "Au-Delà de la Formation",
+    "title": "Expérience ELITE",
+    "description": "Lorsque vous performez au plus haut niveau, vous méritez des expériences à la hauteur de votre succès. L'Expérience ELITE est notre façon de récompenser les meilleurs fermeurs avec des voyages premium, des hébergements sélectionnés et un accès VIP aux meilleures destinations du monde.",
+    "backToHome": "Retour à l'Accueil",
+    "whatIs": {
+      "title": "Qu'est-ce que l'Expérience ELITE ?",
+      "description1": "L'Expérience ELITE est notre programme de récompense exclusif pour les fermeurs les plus performants. Il ne s'agit pas seulement de voyage. Il s'agit de reconnaître l'excellence et de fournir le style de vie qui correspond à votre performance.",
+      "description2": "Lorsque vous atteignez le Niveau Élite, vous débloquez l'accès aux voyages premium, aux hébergements sélectionnés, aux destinations exclusives et aux expériences VIP dont la plupart des gens ne rêvent que. C'est ainsi que nous investissons dans nos meilleurs performeurs.",
+      "seeTrips": "Voir les Voyages"
+    },
+    "whatYouGet": {
+      "title": "Ce que Vous Obtenez"
+    },
+    "howToReach": {
+      "title": "Comment Atteindre le Niveau Élite",
+      "description": "L'Expérience ELITE n'est pas donnée. Elle est méritée. Pour débloquer l'accès, vous devez atteindre le Niveau Élite en :",
+      "closeDeals": {
+        "bold": "Fermant des affaires de manière constante.",
+        "text": "Atteignez vos objectifs mois après mois et prouvez que vous êtes un meilleur performeur."
+      },
+      "exceedRevenue": {
+        "bold": "Dépassant les objectifs de revenus.",
+        "text": "Allez au-delà des attentes et fermez des nombres record."
+      },
+      "maintainElite": {
+        "bold": "Maintenant une performance d'élite.",
+        "text": "La constance est la clé. Le Niveau Élite nécessite une excellence soutenue."
+      },
+      "specificTargets": "Les objectifs et exigences spécifiques sont divulgués lors de l'acceptation du programme. Nous suivons votre performance et vous mettons à niveau automatiquement lorsque vous êtes qualifié.",
+      "learnAboutLevels": "En Savoir Plus sur les Niveaux"
+    }
+  },
+  "dayInTheLife": {
+    "title": "UNE JOURNÉE DANS LA VIE",
+    "subtitle": "ÉDITION D2D",
+    "description": "Une journée typique en tant que fermeur Wildcard Growth — édition porte-à-porte.",
+    "backToHome": "Retour à l'Accueil",
+    "preKnocking": "AVANT LA FRAppe",
+    "knockingSession": "SESSION DE FRAppe",
+    "knockingTime": "10h45 à 18h-20h",
+    "knockingDescription": "Journée complète sur le terrain, frapper aux portes et fermer des affaires.",
+    "return": "RETOUR",
+    "returnDescription": "Ventes et objectifs écrits sur les tableaux",
+    "goodOrBadWeather": "Beau ou mauvais temps, on FRAppe !!",
+    "shiftsAvailable": "Postes disponibles 7/7.",
+    "material": "MATÉRIEL",
+    "siBinder": "Classeur SI",
+    "siBinderDescription": "Explications de service, photos avant/après, contrats",
+    "siEntretien": "T-shirt ou polo SI Entretien",
+    "extra": "EXTRA",
+    "extraDescription": "Hoverboard, trottinette électrique.",
+    "applyForTraining": "Postuler pour la Formation"
+  },
+  "trips": {
+    "tag": "Expérience de Voyage ELITE",
+    "title": "Nos",
+    "titleHighlight": "Voyages",
+    "description": "Découvrez où nos meilleurs fermeurs ont voyagé. Ce sont de vraies expériences de notre programme Élite : destinations de luxe, resorts exclusifs et souvenirs qui durent toute une vie.",
+    "backToHome": "Retour à l'Accueil",
+    "puntaCana": {
+      "location": "Punta Cana, République Dominicaine",
+      "year": "2025",
+      "description": "Nos fermeurs ont vécu le paradis à Punta Cana : plages de sable blanc, eaux cristallines et resorts de classe mondiale. Ce voyage a récompensé les meilleurs performeurs avec l'évasion de luxe qu'ils ont méritée.",
+      "tripHighlights": "Points Forts du Voyage"
+    },
+    "wantToJoin": {
+      "title": "Vous Voulez Rejoindre le Prochain Voyage ?",
+      "description": "Gagnez votre chemin vers le Niveau Élite et débloquez l'accès à notre prochaine destination de luxe.",
+      "learnAboutElite": "En Savoir Plus sur l'Expérience ELITE"
+    }
+  },
+  "wildcardEvents": {
+    "tag": "Formation en Direct",
+    "title": "Événements Wildcard",
+    "description": "Rejoignez-nous pour des événements exclusifs en personne où les fermeurs d'élite s'entraînent, rivalisent et réseautent.",
+    "backToHome": "Retour à l'Accueil",
+    "registerNow": "S'inscrire Maintenant"
+  },
+  "pageTitle": {
+    "home": "Accueil",
+    "training": "Formation",
+    "eliteExperience": "Expérience ELITE",
+    "wildcardEvents": "Événements Wildcard",
+    "dayInTheLife": "Une Journée dans la Vie",
+    "trips": "Voyages",
+    "pageNotFound": "Page Non Trouvée"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Oups ! Page non trouvée",
+    "returnToHome": "Retour à l'Accueil"
+  },
+  "loading": {
+    "text": "SÉLECTION DES TALENTS..."
+  }
+}

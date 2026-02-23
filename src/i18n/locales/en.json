@@ -1,0 +1,346 @@
+{
+  "navbar": {
+    "successStories": "Success Stories",
+    "bookACall": "Book a Call",
+    "wildcardEvents": "Wildcard Events",
+    "dayInTheLife": "Day in the Life",
+    "eliteExperience": "ELITE Experience",
+    "eliteLevels": "ELITE Levels",
+    "trips": "Trips",
+    "applyForTraining": "Apply for Training",
+    "closeMenu": "Close menu",
+    "openMenu": "Open menu"
+  },
+  "hero": {
+    "subtitle": "Application-Only · Elite Results · Top Performers",
+    "title1": "The Best Sales Training",
+    "title2": "for the New Generation",
+    "description": "We train the top 1% of 18 to 30 year olds and turn them into 6-figure closers. This isn't for everyone. It's for those who refuse to settle.",
+    "seeWildcardEvents": "See Wildcard Events"
+  },
+  "opportunity": {
+    "tag": "What's Possible",
+    "title": "THE OPPORTUNITY",
+    "description": "This isn't a course. This is a career transformation. See what's possible when you learn from the best and get placed in high-ticket door-to-door and business-to-business sales roles.",
+    "averageSummer": {
+      "value": "$20K+",
+      "label": "AVERAGE SUMMER",
+      "sublabel": "EARNINGS",
+      "description": "What our students typically earn during their first summer in door-to-door and B2B sales",
+      "highlight": "Real Results"
+    },
+    "topPerformer": {
+      "value": "$100K+",
+      "label": "TOP PERFORMER",
+      "sublabel": "POTENTIAL",
+      "description": "Elite closers who maximize their potential",
+      "highlight": "Unlimited"
+    },
+    "commissionOnly": {
+      "value": "100%",
+      "label": "COMMISSION-ONLY",
+      "sublabel": "STRUCTURE",
+      "description": "You earn what you close. No caps, no limits.",
+      "highlight": "Pure Performance"
+    },
+    "scale": {
+      "value": "SCALE",
+      "label": "PERFORMANCE-BASED",
+      "sublabel": "AUGMENTATION",
+      "description": "Upgrade your commission rate based on your performance. The more sales you make and the more effort you put in, the higher your commission can become.",
+      "highlight": "Earn More",
+      "learnMore": "Learn more"
+    },
+    "commissionLevels": {
+      "title": "Commission Levels",
+      "levelOne": {
+        "title": "Level One",
+        "description": "Your foundation. Master the fundamentals and start closing deals.",
+        "requirements": "Complete training and close your first clients"
+      },
+      "levelTwo": {
+        "title": "Level Two",
+        "description": "Prove your consistency. Hit your targets and show you're serious.",
+        "requirements": "Close a certain number of clients or reach revenue targets"
+      },
+      "levelThree": {
+        "title": "Level Three",
+        "description": "You're in the top tier. Consistent performance at the highest level.",
+        "requirements": "Exceed Level 2 targets and maintain exceptional performance"
+      },
+      "eliteLevel": {
+        "title": "Elite Level",
+        "sublabel": "Elite Travel Access",
+        "description": "The pinnacle. Unlock the ultimate rewards reserved for the best.",
+        "requirements": "Achieve elite performance metrics and close record-breaking numbers"
+      }
+    }
+  },
+  "travel": {
+    "tag": "Beyond Training",
+    "title": "ELITE Travel Experience",
+    "description": "When you perform at the highest level, you deserve experiences that match your success. Our top closers enjoy premium travel, curated accommodations, and VIP access to the world's best destinations.",
+    "curatedAccommodations": {
+      "title": "Curated Accommodations",
+      "description": "From boutique hotels to premium resorts, we handpick stays that match your style. Quality over labels. Every destination offers something special.",
+      "highlight": "Handpicked Stays"
+    },
+    "exclusiveDestinations": {
+      "title": "Exclusive Destinations",
+      "description": "Train in world-class locations. From Las Vegas to Miami, Dubai to Monaco. Wherever closers thrive.",
+      "highlight": "Global Network"
+    },
+    "premiumTravel": {
+      "title": "Premium Travel",
+      "description": "Business class upgrades, priority boarding, and seamless connections. Travel comfortably and arrive ready to perform.",
+      "highlight": "Comfort & Convenience"
+    },
+    "vipExperiences": {
+      "title": "VIP Experiences",
+      "description": "Access to exclusive events, fine dining, and networking opportunities reserved for the elite.",
+      "highlight": "Unmatched Access"
+    },
+    "earnYourWay": {
+      "title": "Earn Your Way to the Top",
+      "description": "These experiences aren't given. They're earned. Close deals, hit targets, and unlock access to the most exclusive travel experiences in the industry.",
+      "learnMore": "Learn more about the travel experience"
+    }
+  },
+  "successStories": {
+    "tag": "Social Proof",
+    "title": "They Took the Wildcard.",
+    "previous": "Previous",
+    "now": "Now",
+    "stories": [
+      {
+        "prevJob": "Calvin Klein Retails",
+        "currentSalary": "$100k+/yr"
+      },
+      {
+        "prevJob": "Bell Canada",
+        "currentSalary": "$70k/yr at 19"
+      },
+      {
+        "prevJob": "Day Camp",
+        "currentSalary": "$25k in one summer"
+      },
+      {
+        "prevJob": "Arena Surveillance",
+        "currentSalary": "$20k in 3 months"
+      },
+      {
+        "prevJob": "Restaurant Server",
+        "currentSalary": "$30k in one summer"
+      },
+      {
+        "prevJob": "$16 per hour",
+        "currentSalary": "$45+ per hour"
+      },
+      {
+        "prevJob": "$16 per hour",
+        "currentSalary": "$35 per hour"
+      }
+    ]
+  },
+  "curriculum": {
+    "title": "What is",
+    "titleHighlight": "Wildcard",
+    "titleSuffix": "Growth?",
+    "description": "How Wildcard Growth works, and why it's the smartest move for proven closers ready to level up.",
+    "origin": {
+      "title": "Origin",
+      "description": "Born from real-world success. Wildcard Growth was created by Sam from Wild Card Agency. It was built specifically for internal recruitment. This isn't theory. It's a proven system that transformed top performers into an elite force. When you join, you're stepping into a legacy built by closers, for closers."
+    },
+    "recruitmentModel": {
+      "title": "Recruitment Model",
+      "description": "We don't train from scratch. We recruit winners. Our model is simple: we identify candidates who already have proven skills on the ground. No endless training cycles. We bring in closers who can perform from day one. If you've got the hustle, we've got the opportunity. Your track record speaks, and we listen."
+    },
+    "selectionProcess": {
+      "title": "Selection Process",
+      "description": "Our selection process isn't like other programs. It's designed to guarantee results, not just hope for them. We evaluate candidates through a unique, rigorous process that ensures you're set up for success from the start. When you're accepted, you're not just getting a spot. You're getting a guaranteed pathway to results."
+    },
+    "professionalIntegration": {
+      "title": "Professional Integration ALL-IN",
+      "description": "From day one, you're ALL-IN. Intensive support. Competitive commission rates. Real conditions to prove your skills and get paid for them. We don't make you wait. We evaluate you in the field, reward you for performance, and set you up to win. Your success is our success from the moment you start."
+    },
+    "b2bD2d": {
+      "title": "B2B & D2D Sales Models",
+      "b2b": {
+        "title": "B2B (Business-to-Business)",
+        "description": "B2B sales means selling products or services directly to other businesses. This is where the big deals happen. You're working with decision-makers, negotiating contracts, and closing high-value transactions. B2B closers understand complex sales cycles, build relationships with key stakeholders, and deliver solutions that drive business results. If you thrive on strategic thinking and high-stakes negotiations, B2B is your arena."
+      },
+      "d2d": {
+        "title": "D2D (Door-to-Door)",
+        "description": "D2D sales is the ultimate test of resilience and persuasion. You're on the front lines, face-to-face with prospects, handling objections in real-time, and closing deals on the spot. D2D closers have unmatched confidence, can read people instantly, and turn rejections into opportunities. This is where you prove you can sell anything, anywhere, to anyone. If you want to master the fundamentals and build unshakeable closing skills, D2D is where legends are made."
+      }
+    },
+    "seeWildcardEvents": "See Wildcard Events"
+  },
+  "faq": {
+    "title": "FAQ",
+    "questions": {
+      "freeTraining": {
+        "q": "Is the training free?",
+        "a": "Yes. It's completely free for 2026. Starting in 2027, there will be a fee to join."
+      },
+      "getStarted": {
+        "q": "How do I get started?",
+        "a": "The first step is to book a Zoom call at the bottom of this page. The second step is to show up to the call. That's all you need to do."
+      },
+      "timeCommitment": {
+        "q": "What's the time commitment?",
+        "a": "This is a career, not a side gig. Expect full-time intensity with full-time rewards."
+      },
+      "experienceRequired": {
+        "q": "Is experience required?",
+        "a": "No, it's not required at all. We even like people who don't have sales experience yet. We train them the Wildcard way."
+      },
+      "joinTeam": {
+        "q": "Is there an opportunity to join your team?",
+        "a": "Yes. If you prove yourself, there are opportunities to join the team."
+      },
+      "b2bD2d": {
+        "q": "What is B2B/D2D?",
+        "a": "Door-to-door (D2D) means selling directly to homeowners at their doorstep. Think energy, solar, security, roofing, and more. B2B (business-to-business) means selling to companies instead of consumers. Think software, insurance, telecom, office supplies, and services that help businesses run. Both are high-earning sales paths we train for."
+      }
+    }
+  },
+  "booking": {
+    "tag": "Book a Call",
+    "title": "Schedule Your 1-Hour Strategy Session",
+    "description": "Pick a time that works for you. No commitment required.",
+    "hideScheduler": "Hide scheduler",
+    "showScheduler": "Show scheduler"
+  },
+  "footer": {
+    "brand": "Wildcard Growth",
+    "description": "Elite sales training for door-to-door and B2B closers. Go from zero to six figures.",
+    "navigate": "Navigate",
+    "home": "Home",
+    "successStories": "Success Stories",
+    "training": "Training",
+    "bookACall": "Book a Call",
+    "wildcardEvents": "Wildcard Events",
+    "dayInTheLife": "Day in the Life",
+    "elite": "ELITE",
+    "eliteLevels": "ELITE Levels",
+    "eliteExperience": "ELITE Experience",
+    "trips": "Trips",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "allRightsReserved": "All Rights Reserved.",
+    "followUsOnInstagram": "Follow us on Instagram",
+    "followSamLaFranceOnInstagram": "Follow Sam LaFrance on Instagram",
+    "followUsOnTikTok": "Follow us on TikTok"
+  },
+  "eliteLevels": {
+    "tag": "The Path to Elite",
+    "title": "How to Reach",
+    "titleHighlight": "Elite Level",
+    "description": "Progress through four levels by closing deals and hitting revenue targets. Elite level unlocks access to the travel experience.",
+    "backToEliteExperience": "Back to Elite Experience",
+    "eliteTravelAccess": "Elite Travel Access",
+    "requirements": "Requirements",
+    "readyToStart": {
+      "title": "Ready to Start Your Journey?",
+      "description": "Every elite closer started at Level One. Apply now to begin.",
+      "applyForTraining": "Apply for Training"
+    }
+  },
+  "eliteExperience": {
+    "tag": "Beyond Training",
+    "title": "ELITE Experience",
+    "description": "When you perform at the highest level, you deserve experiences that match your success. The Elite Experience is our way of rewarding top closers with premium travel, curated accommodations, and VIP access to the world's best destinations.",
+    "backToHome": "Back to Home",
+    "whatIs": {
+      "title": "What Is The Elite Experience?",
+      "description1": "The Elite Experience is our exclusive reward program for top-performing closers. It's not just about travel. It's about recognizing excellence and providing the lifestyle that matches your performance.",
+      "description2": "When you reach Elite Level, you unlock access to premium travel, curated accommodations, exclusive destinations, and VIP experiences that most people only dream about. This is how we invest in our best performers.",
+      "seeTrips": "See Trips"
+    },
+    "whatYouGet": {
+      "title": "What You Get"
+    },
+    "howToReach": {
+      "title": "How To Reach Elite Level",
+      "description": "The Elite Experience isn't given. It's earned. To unlock access, you need to reach Elite Level by:",
+      "closeDeals": {
+        "bold": "Close deals consistently.",
+        "text": "Hit your targets month after month and prove you're a top performer."
+      },
+      "exceedRevenue": {
+        "bold": "Exceed revenue goals.",
+        "text": "Go beyond expectations and close record-breaking numbers."
+      },
+      "maintainElite": {
+        "bold": "Maintain elite performance.",
+        "text": "Consistency is key. Elite Level requires sustained excellence."
+      },
+      "specificTargets": "Specific targets and requirements are disclosed upon program acceptance. We track your performance and automatically upgrade you when you qualify.",
+      "learnAboutLevels": "Learn About The Levels"
+    }
+  },
+  "dayInTheLife": {
+    "title": "DAY IN THE LIFE",
+    "subtitle": "D2D EDITION",
+    "description": "A typical day as a Wildcard Growth closer — door-to-door edition.",
+    "backToHome": "Back to Home",
+    "preKnocking": "PRE-KNOCKING",
+    "knockingSession": "KNOCKING SESSION",
+    "knockingTime": "10:45 AM to 6–8 PM",
+    "knockingDescription": "Full day in the field, knocking doors and closing deals.",
+    "return": "RETURN",
+    "returnDescription": "Sales and goals written on the boards",
+    "goodOrBadWeather": "Good or bad weather, we KNOCK!!",
+    "shiftsAvailable": "Shifts available 7/7.",
+    "material": "MATERIAL",
+    "siBinder": "SI Binder",
+    "siBinderDescription": "Service explanations, before/after photos, contracts",
+    "siEntretien": "SI Entretien T-shirt or polo",
+    "extra": "EXTRA",
+    "extraDescription": "Hoverboard, electric scooter.",
+    "applyForTraining": "Apply for Training"
+  },
+  "trips": {
+    "tag": "ELITE Travel Experience",
+    "title": "Our",
+    "titleHighlight": "Trips",
+    "description": "See where our top closers have traveled. These are real experiences from our Elite program: luxury destinations, exclusive resorts, and memories that last a lifetime.",
+    "backToHome": "Back to Home",
+    "puntaCana": {
+      "location": "Punta Cana, Dominican Republic",
+      "year": "2025",
+      "description": "Our closers experienced paradise in Punta Cana: white sand beaches, crystal-clear waters, and world-class resorts. This trip rewarded top performers with the luxury getaway they earned.",
+      "tripHighlights": "Trip Highlights"
+    },
+    "wantToJoin": {
+      "title": "Want to Join the Next Trip?",
+      "description": "Earn your way to Elite Level and unlock access to our next luxury destination.",
+      "learnAboutElite": "Learn About the ELITE Experience"
+    }
+  },
+  "wildcardEvents": {
+    "tag": "Live Training",
+    "title": "Wildcard Events",
+    "description": "Join us for exclusive in-person events where elite closers train, compete, and network.",
+    "backToHome": "Back to Home",
+    "registerNow": "Register Now"
+  },
+  "pageTitle": {
+    "home": "Home",
+    "training": "Training",
+    "eliteExperience": "Elite Experience",
+    "wildcardEvents": "Wildcard Events",
+    "dayInTheLife": "Day in the Life",
+    "trips": "Trips",
+    "pageNotFound": "Page Not Found"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Oops! Page not found",
+    "returnToHome": "Return to Home"
+  },
+  "loading": {
+    "text": "VETTING TALENT..."
+  }
+}
